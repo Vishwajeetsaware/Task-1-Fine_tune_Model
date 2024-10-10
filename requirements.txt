@@ -1,0 +1,13 @@
+download the Python version 10.10.3
+download tensorflow version 2.9.1
+download keras version 2.9.0
+
+dataset link is present in GitHub and the dataset folder is attached in the main separately as the 
+size of the dataset is more than 6GB 
+while the size of the .h5 file created by train is also huge
+
+after all the loading of file and setup run the code 
+# if encounter error of keras- vggface not recognized than download the zip folder attached in email
+and run it in your terminal
+
+after running the model it can efficiently provide an accuracy of more than 75 %
